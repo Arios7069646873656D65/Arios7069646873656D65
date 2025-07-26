@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Arios7069646873656D65
-- 👀 I’m interested in cybersecurity and AI
+- 👀 I’m interested in cybersecurity and AI (especially in ML and creating tools about it)
 - 🌱 I’m currently studying computer engenieering
 - 📫 You can reach me by my linkedin (Arios Banushi)
